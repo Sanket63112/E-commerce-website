@@ -134,7 +134,7 @@ Right-click on index.html -> Open with Live Server
 For any inquiries or collaboration opportunities, feel free to reach out:
 - **Email:** sanketsudhakarsakhare.221ec248@nitk.edu.in
 - **GitHub:** [Sanket63112](https://github.com/Sanket63112)
-
+- **Source:** https://www.youtube.com/@Tech2etc
 ---
 
 Happy Coding! 🎉
