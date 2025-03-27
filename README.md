@@ -1,9 +1,4 @@
 # E-commerce-website
-Here's a detailed README file for your project:
-
----
-
-# 🛍️ E-Commerce Website
 
 This is a fully functional **E-Commerce Website** built using HTML, CSS, and JavaScript. The project includes multiple pages such as Home, Shop, Cart, Blog, Contact, and Single Product page with dynamic interaction.
 
